@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm You-saku(Yusaku Sekine)</h1>
 <h3 align="center">A University Student in Japan</h3>
 
-- 🌱 I’m currently learning **C,C++,JavaScript(Electron,React,Vue.js),Python,Go,(Flutter)**
+- 🌱 I’m currently learning **C,C++,JavaScript(Electron,React,Vue.js),Python,Go,PHP**
 
 - 📝 I regulary write articles on [https://qiita.com/You-saku](https://qiita.com/You-saku)
 
