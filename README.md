@@ -13,12 +13,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<center>
+<h4>Proficiency: Basic</h4>
 <ol>
-<li>C，C++</li>
-<li>HTML5，CSS3</li>
-<li>JavaScript(Vue.js，node.js)</li>
-<li>PHP(Laravel)</li>
-<li>Python(flask，TensorFlow)</li>
+    <li>C，C++</li>
+    <li>HTML5，CSS3</li>
+    <li>JavaScript(Vue.js，node.js)</li>
+    <li>PHP(Laravel)</li>
+    <li>Python(flask，TensorFlow)</li>
+    <li>DB</li>
 </ol>
-</center>
+<h4>Proficiency: Learning</h4>
+<ol>
+    <li>C#</li>
+    <li>Golang</li>
+    <li>AWS</li>
+    <li>Vue.js+Laravel</li>
+    <li>Python(TensorFlow)</li>
+</ol>
