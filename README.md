@@ -1,7 +1,7 @@
 <h1 align="center">I'm You-saku(Yusaku Sekine)</h1>
 <h3 align="center">A University Student in Japan</h3>
 
-- 🌱 I’m currently learning **C++,PHP(Laravel),JavaScript(Vue.js),Python,Golang,AWS,Azure**
+- 🌱 I’m currently learning **C++,C#,Flutter,PHP(Laravel),JavaScript(Vue.js),Python,Golang,AWS,Azure**
 
 - 📝 I regulary write articles on [https://qiita.com/You-saku](https://qiita.com/You-saku)
 
@@ -25,6 +25,7 @@
 <h4>Proficiency: Learning</h4>
 <ol>
     <li>C#</li>
+    <li>Flutter</li>
     <li>Golang</li>
     <li>AWS</li>
     <li>Vue.js+Laravel</li>
