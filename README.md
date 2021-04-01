@@ -1,5 +1,5 @@
 <h1 align="center">I'm You-saku(Yusaku Sekine)</h1>
-<h3 align="center">A University Student in Japan</h3>
+<h3 align="center">Web Engineer in Japan</h3>
 
 - 🌱 I’m currently learning **C++,C#,PHP(Laravel),JavaScript(Vue.js),Python,Golang,AWS**
 
