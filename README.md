@@ -20,6 +20,10 @@
     <li>Python(TensorFlow)</li>
     <li>C#</li>
     <li>Golang</li>
-    <li>Ruby</li>
+    <li>Ruby(Rails)</li>
     <li>AWS</li>
 </ol>
+
+[![You-saku's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-saku)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku&layout=compact&theme=tokyonight)](https://github.com/You-saku/)
