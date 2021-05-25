@@ -10,8 +10,8 @@
 |        :---:        |             :---:                  |
 |  C,C++              | C#       |
 |  HTML5,CSS3         |  Golang  |
-|  JavaScript         |  Ruby |
-|  PHP                |  Dart |
+|  JavaScript(Vue.js)         |  Ruby |
+|  PHP(Laravel)                |  Dart |
 |  Python             | Rust  |
 |  DB(SQL)            | AWS  |
 
