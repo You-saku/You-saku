@@ -31,7 +31,9 @@
 5. Rust
 6. AWS
 7. Micro Service
-8. Block Chain
-9. Artificial Intelligence
+8. Algorithm, Data Structure
+9. Security
+10. Block Chain
+11. Artificial Intelligence
 
 <br>
