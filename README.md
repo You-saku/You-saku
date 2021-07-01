@@ -11,24 +11,27 @@
 <h2>Languages and Tools</h2>
 <h3>Proficiency: Basic</h3>
 
-1. C#
-2. Kotlin
-3. Golang
-4. Rust
-5. AWS
-6. Micro Service
-7. Block Chain
-8. Artificial Intelligence
+1. C,C++
+2. C#
+3. Python
+4. PHP(Laravel)
+5. JavaScript
+6. Java
+7. SQL
+8. AWS
+9. Block Chain
+10. Artificial Intelligence
 
 <h3>Proficiency: Learning/Interested</h3>
 
 1. C#
 2. Kotlin
-3. Golang
-4. Rust
-5. AWS
-6. Micro Service
-7. Block Chain
-8. Artificial Intelligence
+3. React.js
+4. Golang
+5. Rust
+6. AWS
+7. Micro Service
+8. Block Chain
+9. Artificial Intelligence
 
 <br>
