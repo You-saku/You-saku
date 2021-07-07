@@ -15,12 +15,11 @@
 2. C#
 3. Python
 4. PHP(Laravel)
-5. JavaScript
+5. JavaScript(Vue.js)
 6. Java
 7. SQL
-8. AWS
-9. Block Chain
-10. Artificial Intelligence
+8. Block Chain
+9. Artificial Intelligence
 
 <h3>Proficiency: Learning/Interested</h3>
 
