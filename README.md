@@ -1,4 +1,4 @@
-<h1 align="center">I'm You-saku(Yusaku Sekine)</h1>
+<h1 align="center">Hi there👋  I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
 <center>
 - 🌱 I’m currently learning C++,C#,PHP(Laravel),JavaScript(Vue.js,React.js),Python,AWS
@@ -19,18 +19,18 @@
 6. Java
 7. SQL
 8. Block Chain
-9. Artificial Intelligence
+9. Artificial Intelligence(Nueral Network)
 
 <h3>Proficiency: Learning/Interested</h3>
 
 1. C#
 2. Kotlin
-3. React.js
+3. React.js,Vue.js
 4. Golang
 5. Rust
 6. AWS
 7. Micro Service
-8. Algorithm, Data Structure
+8. Algorithm and Data Structure
 9. Security
 10. Block Chain
 11. Artificial Intelligence
