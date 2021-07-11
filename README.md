@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋  I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
 <center>
-- 🌱 I’m currently learning C++,C#,PHP(Laravel),JavaScript(Vue.js,React.js),Python,AWS
+- 🌱 I’m currently working Web Engineer(Server side). I love Computer Science, Making product and Learning ICT. Someday, I wanna become Geek.
 - 
 <br><br>
 
