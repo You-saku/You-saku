@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋  I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
-  <center>🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</center><br>
+  <p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
 <br>
 
 <table>
