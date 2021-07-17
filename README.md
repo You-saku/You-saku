@@ -3,12 +3,20 @@
   🌱 I’m currently working Web Engineer(Server side). I love Computer Science, Making product and Learning ICT. Someday, I wanna become Geek.
   
 <br>
+<table>
+<tr>
+<td>
 
 [![You-saku's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+</tr>
+</table>
 <h2>Languages and Tools</h2>
 <h3>Proficiency: Basic</h3>
 
