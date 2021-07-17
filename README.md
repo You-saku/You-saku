@@ -1,12 +1,13 @@
 <h1 align="center">Hi there👋  I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
-<center>
-- 🌱 I’m currently working Web Engineer(Server side). I love Computer Science, Making product and Learning ICT. Someday, I wanna become Geek.
-- 
-<br><br>
+  🌱 I’m currently working Web Engineer(Server side). I love Computer Science, Making product and Learning ICT. Someday, I wanna become Geek.
+  
+<br>
 
 [![You-saku's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h2>Languages and Tools</h2>
 <h3>Proficiency: Basic</h3>
