@@ -1,21 +1,18 @@
-<h1 align="center">Hi there👋  I'm You-saku</h1>
+<h1 align="center">👋Hi there!!  &nbsp; I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
   <p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
 
 <table>
-<tr>
-<td>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="200" />
+    </td>
+  <tr>
+<table>
 
-[![You-saku's GitHub stats](https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-</tr>
-</table>
 <h2>Languages and Tools</h2>
 <h3>Proficiency: Basic</h3>
 
