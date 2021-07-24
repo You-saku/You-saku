@@ -13,8 +13,14 @@
   <tr>
 <table>
 
-<h2>Languages and Tools</h2>
-<h3>Proficiency: Basic</h3>
+## Blog Link(Japanese only)
+1. [はてなブログ](https://you-saku.hatenablog.com/)
+2. [HiÐΞ](https://hide.ac/users/V57L62ruTwPrTuJu7RtDl3uWVVv2)
+3. [Qiita](https://qiita.com/You-saku)
+4. [Zenn](https://zenn.dev/yousaku)
+
+## Programming Languages and Tools
+### Proficiency: Basic
 
 1. C,C++
 2. C#
@@ -26,7 +32,7 @@
 8. Block Chain
 9. Artificial Intelligence(Nueral Network)
 
-<h3>Proficiency: Learning/Interested</h3>
+### Proficiency: Learning/Interested
 
 1. C#
 2. Kotlin
@@ -39,5 +45,3 @@
 9. Security
 10. Block Chain
 11. Artificial Intelligence
-
-<br>
