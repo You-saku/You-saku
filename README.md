@@ -14,7 +14,7 @@
 <table>
 
 ## Blog Link(Japanese only)
-1. [はてなブログ](https://you-saku.hatenablog.com/)
+1. [はてなブログ](https://thinking-capy.com/)
 2. [HiÐΞ](https://hide.ac/users/V57L62ruTwPrTuJu7RtDl3uWVVv2)
 3. [Qiita](https://qiita.com/You-saku)
 4. [Zenn](https://zenn.dev/yousaku)
