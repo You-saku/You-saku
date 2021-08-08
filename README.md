@@ -3,10 +3,10 @@
 <p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="200" alt="You-saku's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="150" alt="You-saku's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="200" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="150" />
 </a>
 
 ## Blog Link(Japanese only)
