@@ -2,6 +2,8 @@
 <h2 align="center">Web Engineer in Japan</h2>
 <p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
 
+## Profile
+### My Activities and Programming Language stats.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="180" alt="You-saku's github stats" />
 </a>
@@ -10,7 +12,10 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="180" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=You-saku&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Profile Trophy
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=You-saku&column=8&theme=discord&no-frame=true"/>
+</a>
 
 
 ## Blog Link(Japanese only)
