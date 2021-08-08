@@ -10,6 +10,9 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="180" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=You-saku&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Blog Link(Japanese only)
 1. [はてなブログ](https://thinking-capy.com/)
 2. [Qiita](https://qiita.com/You-saku)
