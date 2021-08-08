@@ -2,9 +2,7 @@
 <h2 align="center">Web Engineer in Japan</h2>
 <p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
 
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="200"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=You-saku&theme=tokyonight&layout=compact" height="200" />
-</p>
   
 ## Blog Link(Japanese only)
 1. [はてなブログ](https://thinking-capy.com/)
