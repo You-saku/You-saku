@@ -1,6 +1,6 @@
 <h1 align="center">👋Hi there!!  &nbsp; I'm You-saku</h1>
 <h2 align="center">Web Engineer in Japan</h2>
-<p align="center">🌱 I love Computer Science, Making product. Someday, I wanna become Geek.</p><br>
+<p align="center">🌱 I love Computer Science, Programming languages and Algorithm. Someday, I wanna become Geek.</p><br>
 
 ## Profile
 ### My Activities and Programming Language stats.
