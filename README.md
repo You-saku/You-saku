@@ -29,25 +29,24 @@
 ### Proficiency: Basic
 
 1. C,C++
-2. C#
-3. Python
+2. C#(.NET Framework)
+3. Python(Flask, TensorFlow/Keras)
 4. PHP(Laravel)
 5. JavaScript(Vue.js)
-6. Java
-7. SQL
-8. Block Chain
-9. Artificial Intelligence(Nueral Network)
+6. SQL(MySQL)
+7. Heroku
 
 ### Proficiency: Learning/Interested
 
-1. C#
-2. Kotlin
-3. PHP(Laravel)
-4. JavaScript(Vue,React)
-5. Golang
-6. Rust
-7. AWS
-8. Algorithm and Data Structure
-9. Security
-10. Block Chain
-11. Artificial Intelligence
+1. Kotlin
+2. PHP(Laravel)
+3. JavaScript/TypeScript(React.js)
+4. Golang
+5. Rust
+6. Dart(Flutter)
+7. Firebase
+8. AWS
+9. Algorithm and Data Structure
+10. Security
+11. Block Chain
+12. Artificial Intelligence
