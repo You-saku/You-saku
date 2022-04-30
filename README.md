@@ -31,19 +31,20 @@
 ### Curious Languages(Learning)
 
 1. PHP(Laravel)
-2. Python
-3. JavaScript/TypeScript(React.js)
+2. TypeScript(React.js, NestJS)
+2. SQL
 4. Rust
+5. Python
 
 ### Curious Service(Learning)
 
-1. AWS
-
+1. Docker
+2. AWS
 
 ### Curious Technology(Learning)
 
 1. Algorithm and Data Structure
-2. Security
-3. Block Chain
-4. Artificial Intelligence
-5. Machine Learning
+2. Database
+3. Security
+4. Artificial Intelligence/Machine Learning
+5. Block Chain
