@@ -1,18 +1,9 @@
 <h1>👋Hi there!! &nbsp; I'm Capybara</h1>
-🌱 I love Computer. I wanna become Capybara.<br>
+🌱 I love Computer. I wanna become Capybara.<br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=solarized-light" height="180" alt="You-saku's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=You-saku&count_private=true&show_icons=true&theme=tokyonight" height="180" alt="You-saku's github stats" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=You-saku&theme=solarized-light&layout=compact" height="180" />
-</a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=You-saku&column=8&theme=darkhub&no-frame=true"/>
-</a>
-
 
 ### Languages and Tools
 #### Basic Level
