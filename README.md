@@ -2,7 +2,7 @@
 
 [![You-saku's github stats](https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&count_private=true&include_all_commits=true&theme=vue)](https://github.com/You-saku)
 
-![](https://raw.githubusercontent.com/You-saku/You-saku/20230427/profile-summary-card-output/vue/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/You-saku/You-saku/main/profile-summary-card-output/vue/2-most-commit-language.svg)
 
 ## Learning Languages
 
