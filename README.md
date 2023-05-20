@@ -1,9 +1,9 @@
 🌱 I love Computer. I wanna become Capybara.
 
 
-<img src ="https://raw.githubusercontent.com/You-saku/You-saku/main/profile-summary-card-output/vue/2-most-commit-language.svg" width=60%>
+<img src ="https://raw.githubusercontent.com/You-saku/You-saku/main/profile-summary-card-output/vue/2-most-commit-language.svg" width=50%>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&count_private=true&include_all_commits=true&theme=vue" width="60%">
+<img src = "https://github-readme-stats.vercel.app/api?username=You-saku&show_icons=true&count_private=true&include_all_commits=true&theme=vue" width="50%">
 
 ## Learning Languages
 
